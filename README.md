@@ -1,4 +1,6 @@
 project_yoyo
 ============
 
-It's up, it's down, who knows were it will end up?
+It's up, it's down, who knows where it will end up?
+
+Version: 0.1
