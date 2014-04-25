@@ -3,4 +3,4 @@ project_yoyo
 
 It's up, it's down, who knows where it will end up?
 
-Version: 6.28318
+Version: 3.0
