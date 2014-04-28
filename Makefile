@@ -11,3 +11,5 @@ deploy:
 	git pull
 	git push --force heroku master
 	
+test_ssh:
+	git ls-remote -h git@heroku.com:tranquil-waters-8854.git HEAD
