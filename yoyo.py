@@ -3,7 +3,7 @@ app = Flask(__name__)
 
 @app.route("/yoyo")
 def hello():
-    status =  "Project Yoyo: it's up, it's down - who knows where it will end up! (V0.888888)"
+    status =  "Project Yoyo: it's up, it's down - who knows where it will end up! (V0.888888999)"
     return status
 
 if __name__ == "__main__":
