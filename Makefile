@@ -7,6 +7,7 @@ hello:
 deploy:
 	echo "about to push project-yoyo to heroku"
 	echo "test for success by doing 'heroku ps', check for one web process running"
+	git pull
 	git checkout master
 	git push --force heroku master
 	
